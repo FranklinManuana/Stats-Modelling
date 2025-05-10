@@ -1,6 +1,2 @@
-*.json filter=lfs diff=lfs merge=lfs -text
-*.md filter=lfs diff=lfs merge=lfs -text
-*.gitkeep filter=lfs diff=lfs merge=lfs -text
-*.ipynb filter=lfs diff=lfs merge=lfs -text
-*.db filter=lfs diff=lfs merge=lfs -text
-*.py filter=lfs diff=lfs merge=lfs -text
+refined_fs_call.json filter=lfs diff=lfs merge=lfs -text
+forusquare_call.json filter=lfs diff=lfs merge=lfs -text
